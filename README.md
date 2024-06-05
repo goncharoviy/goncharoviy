@@ -1,6 +1,6 @@
- Всем привет. Меня зовут Илья. Интересуюсь разработкой ПО под Linux, но в данный момент изучаю фронтенд и Java для бека.
+ Всем привет. Меня зовут Илья. Интересуюсь разработкой ПО под Linux
 
- Hello everybody. My name is Ilya. I`m interesting in developing programms for Linux, but now I learning frontend and Java for backend.
+ Hello everybody. My name is Ilya. I`m interesting in developing programms for Linux
 
 <!---
 goncharoviy/goncharoviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
